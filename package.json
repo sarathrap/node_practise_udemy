@@ -1,0 +1,19 @@
+{
+  "name": "node_practise_udemy",
+  "version": "1.0.0",
+  "description": "This is my personal repository of few scripts files written in node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarathrap/node_practise_udemy.git"
+  },
+  "author": "Sarath Rapeti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarathrap/node_practise_udemy/issues"
+  },
+  "homepage": "https://github.com/sarathrap/node_practise_udemy#readme"
+}
